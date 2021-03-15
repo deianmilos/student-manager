@@ -1,0 +1,7 @@
+[Student]-(Sign In)
+[Student]-(Buy Products)
+(Buy Products)>(Browse Products)
+(Buy Products)>(Checkout)
+(Checkout)<(Add New Credit Card)
+(Checkout)
+[Manager]-(Processs Order)
